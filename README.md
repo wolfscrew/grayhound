@@ -1,2 +1,2 @@
 # grayhound
-Enumeration resource tool
+Enumeration domain tool
