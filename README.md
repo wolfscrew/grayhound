@@ -1,2 +1,2 @@
 # grayhound
-Enumeration domain tool
+Enumeration sub-domain tool
